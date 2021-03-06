@@ -1,3 +1,4 @@
+//this class is used to store (z,r) pairings 
 public class Pair {
     public int z;
     public double r;
@@ -8,5 +9,5 @@ public class Pair {
     }
 
 
-    
+
 }
